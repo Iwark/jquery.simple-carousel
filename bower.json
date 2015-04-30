@@ -1,0 +1,36 @@
+{
+  "name": "jquery.simple-carousel",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Iwark/jquery.simple-carousel",
+  "authors": [
+    "Iwark <iwark02@gmail.com>"
+  ],
+  "description": "Simple jQuery Carousel Plugin",
+  "main": [
+    "dist/jquery.simple-carousel.js",
+    "dist/jquery.simple-carousel.min.js"
+  ],
+  "keywords": [
+    "jQuery",
+    "carousel"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "**/*.html",
+    "bower_components",
+    "doc",
+    "example",
+    "lib",
+    "node_modules",
+    "src",
+    "bower.json",
+    "Gruntfile.coffee",
+    "package.json",
+    "README.md"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "jquery.finger": "~0.1.2"
+  }
+}
